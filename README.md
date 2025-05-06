@@ -43,8 +43,8 @@ project/
 ### Local Development
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/churn-prediction-api.git
-cd churn-prediction-api
+git clone https://github.com/yourusername/Churn-Modelling.git
+cd Churn-Modelling
 ```
 
 2. Create and activate a virtual environment:
